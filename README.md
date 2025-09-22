@@ -1,16 +1,13 @@
-## Hi there 👋
+![](banner.jpg)
+<h1 align="center">Até porquê, aprender nunca é demais!</h1>
+<h2 align="center">🤘🏾 Olá, eu sou a Vitória! </h1>
 
-<!--
-**vitoriaoliveiraxdev/vitoriaoliveiraxdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Técnico em Informática**  
+💻 Apaixonada por desenvolvimento e programação  
+☕ Aprendendo **Java**, **HTML** e **CSS**  
+🌱 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
 
-Here are some ideas to get you started:
+✨ **Vamos codar juntos!** ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   **Por, Vitória Oliveira** 🧠
