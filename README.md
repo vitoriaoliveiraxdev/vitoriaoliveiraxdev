@@ -11,3 +11,5 @@
 
 
    **Por, Vitória Oliveira** 🧠
+
+   ![GitHub License](https://img.shields.io/github/license/vitoriaoliveiraxdev/senac-tat)
