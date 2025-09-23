@@ -1,4 +1,4 @@
-![](banner.jpg2)
+![](banner.jpg3)
 <h1 align="center">Até porquê, aprender nunca é demais!</h1>
 <h2 align="center">🤘🏾 Olá, eu sou a Vitória! </h1>
 
