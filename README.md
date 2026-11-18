@@ -1,15 +1,10 @@
-![](banner.jpg3)
-<h1 align="center">Até porquê, aprender nunca é demais!</h1>
-<h2 align="center">🤘🏾 Olá, eu sou a Vitória! </h1>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Banner do perfil">
+</p>
+<h3 align="center">
+ 👾 Estudante de Técnico em Informática | Senac Tatuapé
+</h3>
 
-🎓 **Estudante de Técnico em Informática**  
-💻 Apaixonada por desenvolvimento e programação  
-☕ Aprendendo **Java**, **HTML** e **CSS**  
-🌱 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades
-
-✨ **Vamos codar juntos!** ✨
-
-
-   **Por, Vitória Oliveira** 🧠
-
-   ![GitHub License](https://img.shields.io/github/license/vitoriaoliveiraxdev/senac-tat)
+<p align="center">
+  Compartilhando projetos, aprendizados e minha evolução na tecnologia.
+</p>
