@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Banner do perfil">
-</p>
+![Banner do meu perfil](./banner.png)
 <h3 align="center">
  👾 Estudante de Técnico em Informática | Senac Tatuapé
 </h3>
